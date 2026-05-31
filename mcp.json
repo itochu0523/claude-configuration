@@ -1,0 +1,24 @@
+{
+  "mcpServers": {
+    "slack": {
+      "type": "url",
+      "url": "https://mcp.slack.com/mcp",
+      "note": "Slack MCP - claude.ai で接続済み"
+    },
+    "google-drive": {
+      "type": "url",
+      "url": "https://drivemcp.googleapis.com/mcp/v1",
+      "note": "Google Drive MCP"
+    },
+    "gmail": {
+      "type": "url",
+      "url": "https://gmailmcp.googleapis.com/mcp/v1",
+      "note": "Gmail MCP"
+    },
+    "google-calendar": {
+      "type": "url",
+      "url": "https://calendarmcp.googleapis.com/mcp/v1",
+      "note": "Google Calendar MCP"
+    }
+  }
+}
